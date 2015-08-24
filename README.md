@@ -1,5 +1,5 @@
-# J4502 (Monday / Wednesday)
-Multimedia Planning and Design
+# Monday / Wednesday Section
+J4502: Multimedia Planning and Design
 
 This is the repository for Multimedia Planning and Design. Here, I'll post sample code throughout the semester. You'll learn basic HTML and CSS, alongside best practices.
 
